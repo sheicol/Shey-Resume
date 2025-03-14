@@ -37,6 +37,11 @@ st.write("📊 **Data Manipulation**")
 st.write("📉 **Pandas:** Moderate")
 st.write("🌐 **HTML5:** Excellent")
 st.write("🎨 **CSS:** Excellent")
+st.write("📜 **JavaScript:** Excellent")
+st.write("📊 **Statistical Modeling: Beginner**")
+st.write("📈 **Data Visualization: Beginner**")
+st.write("📑 **Data Analysis: Begginer**")
+st.write("📊 **Statistical Analysis: Begginer**")
 
 # Profile Picture
 st.image("shey.jpg", width=150, caption="Sheilyn Colina")
