@@ -14,7 +14,7 @@ st.write("🎂 **Date of Birth:** December 19, 1993")
 st.write("🌍 **Place of Birth:** Venezuela")
 st.write("**Nationality:** Venezuelan")
 st.write("💼 **Civil Status:** Single")
-st.write("🔗 **LinkedIn:** Sheilyn Colina")
+st.write("🔗 **LinkedIn:** https://www.linkedin.com/in/sheilyn-colina-54b09097?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app")
 
 # Education Section
 st.header("Education")
