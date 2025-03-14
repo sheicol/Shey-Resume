@@ -39,7 +39,7 @@ st.write("🌐 **HTML5:** Excellent")
 st.write("🎨 **CSS:** Excellent")
 
 # Profile Picture
-st.image("WhatsApp Image 2025-03-14 at 16.16.19_1e3aefea.jpg", width=150, caption="Sheilyn Colina")
+st.image("shey.jpg", width=150, caption="Sheilyn Colina")
 
 
 
